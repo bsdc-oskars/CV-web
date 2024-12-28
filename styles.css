@@ -1,0 +1,14 @@
+body{
+    background-image: url(images/bc4.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    color: rgb(255, 255, 255);
+}
+.title{
+    margin-left: 2%;
+    font-size: 200%; 
+}
+.h1{
+  
+}
